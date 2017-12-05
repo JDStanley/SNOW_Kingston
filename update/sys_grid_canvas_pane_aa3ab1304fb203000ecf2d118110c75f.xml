@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">9a3ab1304fb203000ecf2d118110c72b</grid_canvas>
+        <height>4</height>
+        <portal_widget display_value="Created 30/11/2017 03:55:58">2e3ab1304fb203000ecf2d118110c738</portal_widget>
+        <posx>8</posx>
+        <posy>44</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-30 11:55:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>aa3ab1304fb203000ecf2d118110c75f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9a3ab1304fb203000ecf2d118110c72b</sys_name>
+        <sys_package display_value="Innovate" source="x_106688_innovate">b41045704f3203000ecf2d118110c7da</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate">b41045704f3203000ecf2d118110c7da</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_aa3ab1304fb203000ecf2d118110c75f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-30 11:55:59</sys_updated_on>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>
